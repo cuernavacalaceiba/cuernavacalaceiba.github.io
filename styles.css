@@ -37,7 +37,7 @@ img{display:block;max-width:100%}
 .navlinks a:hover{color:#997a47}
 .navlinks .btn{padding:11px 14px}
 
-.hero{min-height:650px;display:grid;align-items:end;position:relative;color:white;background:linear-gradient(90deg,rgba(12,34,25,.82),rgba(12,34,25,.43) 55%,rgba(12,34,25,.12)),url('Imagenes/Adicional1.avif') center 54%/cover}
+.hero{min-height:650px;display:grid;align-items:end;position:relative;color:white;background:linear-gradient(90deg,rgba(12,34,25,.82),rgba(12,34,25,.43) 55%,rgba(12,34,25,.12)),url('imagenes/Adicional1.avif') center 54%/cover}
 .hero-content{padding:100px 0 92px;max-width:760px}
 .hero h1{font-size:clamp(3.3rem,7vw,6.4rem);margin:16px 0 22px;letter-spacing:-.035em}
 .hero p{font-size:1.08rem;max-width:570px;color:#f5f0e7;margin:0 0 30px}
